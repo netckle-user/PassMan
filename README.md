@@ -1,4 +1,4 @@
 # PassMan
  
-![이미지 설명](Images/a.png)
-![이미지 설명](Images/b.png)
+<img src="Images/a.png" width="200">
+<img src="Images/b.png" width="200">
